@@ -1,2 +1,3 @@
-# template-repo
-Various materials related to or pertaining to the branding of OpenZiti
+# NetFoundry Brand Toolkit
+
+These pages, assets, styling are to be used when referencing NetFoundry.
